@@ -1,0 +1,6 @@
+Ques 4:  Write  a short note on Tag and element with an example ?
+
+Ans:  An element is a combination of a start tag, the text and the end tag .
+ For example. <body> element begins with start tag. Followed by text and ends with end tag.
+ </body> in simple words one can equate an element to a block a tag to an instruction to a block
+  a log to an instruction and an attribute to an extension to a instruction.
